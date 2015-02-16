@@ -6,12 +6,13 @@ pythonWorkshop para principiantes
   * [Presentación y Herramientas](#presentacion-y-herramientas)
   * [Retos](#retos)
   * [Equipo](#equipo)
+  * [Agradecimiento](#agradecimiento)
   * [Código de Conducta](#codigo-de-conducta)
   * [Referencias](#referencias)
 
 # Introducción
 
-  Este repositorio incluye el material que se va a ofrecer para el Taller de Programación utilizando Python, ofrecido por #include<girls>. El mismo no requiere instalación de ningun tipo, mas si el 'browser' de su preferencia. Le agradecemos al [Python Software Foundation](https://www.python.org/psf/) y a [Engine-4](http://engine-4.com/) por ayudar a que este taller sea posible. 
+  Este repositorio incluye el material que se va a ofrecer para el Taller de Programación utilizando Python, ofrecido por #include<girls>. El mismo no requiere instalación de ningun tipo, mas si el 'browser' de su preferencia. 
 
 # Presentación y Herramientas
 
@@ -25,6 +26,9 @@ pythonWorkshop para principiantes
 # Equipo
   * [Xiomara Figueroa] (https://github.com/Xiomara7)
   * [Roxana González] (https://github.com/rogonzalez)
+
+#Agradecimiento
+Le agradecemos al [Python Software Foundation](https://www.python.org/psf/) y a [Engine-4](http://engine-4.com/) por ayudar a que este taller sea posible. 
 
 #Código de Conducta
  * Para nosotras es importante tener armonía y hacer de nuestras actividades unas con un ambiente amistoso a todo aquel que quiera unirse, por lo cual les damos incapié a nuestro [Código de Conducta](http://www.includegirls.com/python/codeofconduct.html)
