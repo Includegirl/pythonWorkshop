@@ -2,7 +2,7 @@
 
 ##### EJERCICIO 1 #####
 # Corre el siguiente código:
-#bit.ly ...
+# http://bit.ly/1EG9hjy
 
 # Discute con tus compañeros en la mesa
 # qué pueden entender del código 
