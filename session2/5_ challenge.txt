@@ -1,15 +1,14 @@
 """ En este ejercicio vamos a aplicar todo lo que aprendimos en la seccion 2 """
 
 # Escriba una variable que contenga su nombre
-nombre = "Alejandro"
+
 
 # Escriba una variable que contenga su apellido
-apellido = "Sanchez"
+
 
 # Escriba una variable que contenga la canditad de pizzas que se va a comer
-pizzas = 2
+
 
 """ Utilizando las variables de la parte de arriba imprima su nombre 
 y apellido de manera que quede de la siguiente manera que quede 
 'XIOMARA FIGUEROA SE VA A COMER 2 PIZZAS' """
-print (nombre + " " + apellido + " se va a comer " + str(pizzas) + " pizzas").upper()
