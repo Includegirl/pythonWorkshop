@@ -27,7 +27,3 @@ Al hacer esta acción existe un buen método con el operador %
 # Observar ¿Cuál es la función de %s?
 
 """ El operador % sustituye %s con la variable correspondiente en el orden en que aparezcan """
-
-##### EJERCICIO 2 #####
-# Complete el siguiente ejercicio:
-# http://bit.ly/1DyalY3
