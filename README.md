@@ -2,12 +2,12 @@ pythonWorkshop para principiantes
 =====================
 # Índice
 
-  * [Introducción](#introduccion)
-  * [Presentación y Herramientas](#presentacion-y-herramientas)
+  * [Introducción](#introducción)
+  * [Presentación y Herramientas](#presentación-y-herramientas)
   * [Retos](#retos)
   * [Equipo](#equipo)
   * [Agradecimiento](#agradecimiento)
-  * [Código de Conducta](#codigo-de-conducta)
+  * [Código de Conducta](#código-de-conducta)
   * [Referencias](#referencias)
 
 # Introducción
