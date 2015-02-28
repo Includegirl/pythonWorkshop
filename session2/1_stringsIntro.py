@@ -1,4 +1,4 @@
-"""Un 'string' esa cadena de caracteres la cual es un tipo de variable 
+"""Un 'string' es una cadena de caracteres la cual es un tipo de variable 
  que puede representar números, letras y simbolos. """
 # Ejemplos: 
 
@@ -9,13 +9,7 @@ comida  = "Ice cream sandwich!"
  cancion y le asignamos el string "bacon Pancakes, making bacon Pancakes"""
 
 ##### EJERCICIO 1 #####
-# Crea una variable que se llame 'nombre'
-# y asígnale como string tu nombre
-
-
-##### EJERCICIO 2 #####
 # http://bit.ly/1BgZti4
-
 
 """ Existen dos maneras de representar los 'strings', aquellos que tienen 
  'single quotes' y aquellos que tienen 'double quotes' """

@@ -10,7 +10,7 @@ print "Bienvenidos " + "al taller de " + "programación"
 
 # ¿Porqué la siguiente linea de código de error?
 # Hint: Tipos de variables
-print "Me voy a comer " + 3 + " pedazos de pizza"
+print "Me voy a comer " + 2 + " pedazos de pizza"
 # ¿Qué aprendimos para resolver este problema?
 
 ##### EJERCICIO 1 #####
@@ -23,11 +23,7 @@ Al hacer esta acción existe un buen método con el operador %
 """
 
 ##### EJERCICIO 2 #####
-# Corre el siguiente programa: http://bit.ly/1Fix4t8
+# Corre el siguiente programa: http://bit.ly/1GiBnCG
 # Observar ¿Cuál es la función de %s?
 
 """ El operador % sustituye %s con la variable correspondiente en el orden en que aparezcan """
-
-##### EJERCICIO 2 #####
-# Complete el siguiente ejercicio:
-# http://bit.ly/1DyalY3
