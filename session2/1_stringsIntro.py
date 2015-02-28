@@ -1,12 +1,16 @@
-"""Un 'string' es una cadena de caracteres la cual es un tipo de variable 
- que puede representar números, letras y simbolos. """
-# Ejemplos: 
+'''
+Un 'string' es una cadena de caracteres la cual es un tipo de variable 
+que puede representar números, letras y simbolos. 
+'''
+ # Ejemplos: 
 
 cancion = "bacon Pancakes, making bacon Pancakes"
 numeros = "1234"
 comida  = "Ice cream sandwich!"
-""" En el ejemplo anterior creamos una variable llamada
- cancion y le asignamos el string "bacon Pancakes, making bacon Pancakes"""
+'''
+En el ejemplo anterior creamos una variable llamada
+ cancion y le asignamos el string "bacon Pancakes, making bacon Pancakes'''
+
 
 ##### EJERCICIO 1 #####
 # http://bit.ly/1BgZti4
@@ -32,6 +36,6 @@ comida  = "Ice cream sandwich!"
 'Someone told me that there\'s pizza for lunch!'
 
 ##### EJERCICIO 3 #####
-# Arregla el string que está en la linea 27
+# Arregla el string que está en la linea 27 y 34
 
 

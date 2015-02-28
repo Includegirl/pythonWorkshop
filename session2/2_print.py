@@ -14,11 +14,10 @@ print "¿Cuánto falta para el almuerzo?"
 """ Tambien 'print' nos permite trabajar con variables
 y ya aprendimos a crear variables, por lo tanto
 crea una variable que se llame 'texto' con un string
-adentro, el cual aprendimos en la sessión No. 1 de 
-este taller e imprimelo """
+adentro"""
 
 ##### EJERCICIO 2 #####
-# Imprime en tu consola el string que tiene la variable texto
+# Imprime en tu consola el string que tiene la variable 'texto'
 
 
 

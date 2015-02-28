@@ -81,12 +81,12 @@ multiplicar y dividir numeros en python de la siguiente manera:
 
 # EJEMPLOS
 
-suma = 23 + 12
-resta = 43 - 10
-multiplicacion = 2 * 10
-division = 10 / 5
+# suma = 23 + 12
+# resta = 43 - 10
+# multiplicacion = 2 * 10
+# division = 10 / 5
 
-print suma, resta, multiplicacion, division
+# print suma, resta, multiplicacion, division
 
 '''
 Por qué hacer matemáticas en python si cualquier calculadora lo hace?
