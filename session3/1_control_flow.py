@@ -1,5 +1,5 @@
 '''
-Vamos a empezar con el más simple de los conceptos: comparación!
+Vamos a empezar con uno de los más importantes conceptos: comparación!
 '''
 
 # COMPARADORES
@@ -8,9 +8,9 @@ Vamos a empezar con el más simple de los conceptos: comparación!
 	Igual a 			(==)
 	No Igual 			(!=)
 	Menor que 			(<)
-	Menor o igual que 	(<=)
+	Menor o igual que 			(<=)
 	Mayor que 			(>)
-	Mayor o igual que 	(>=)
+	Mayor o igual que 			(>=)
 
 '''
 
@@ -37,7 +37,7 @@ bool_one = True   # Hicimos éste para ti!
 
 '''
 'IF' Es una oración condicional que ejecuta un código después
-de haber verificado que la expresión anterios era cierta (TRUE)
+de haber verificado que la expresión anterior era cierta (TRUE)
 
 La sintaxis de un IF luce así:
 
@@ -48,6 +48,48 @@ La sintaxis de un IF luce así:
 
 '''
 
+##### EJERCICIO 2 #####
 
+# Mira este ejemplo de un if y completa el segundo!
+
+# queremosPizza = "Si"
+
+# if queremosPizza == "Si":
+#     print "Tenemos que esperar a la hora del almuerzo!"
+
+# COMPLETAR
+
+# if 
+# 	print "Esto no se debe imprimir"
+
+##### EJERCICIO 3 #####
+
+# Mira este ejemplo de un if/else y completa el segundo!
+
+# queremosPizza = "Ya no"
+
+# if queremosPizza == "Si":
+# 	print "Tenemos que esperar a la hora del almuerzo!"
+# else: 
+# 	print "Ya no queremos!"
+
+# COMPLETAR
+
+# if queremosPizza == 
+# 	print "Esto no se debe imprimir"
+# else: 
+# 	print ""
+
+##### EJERCICIO 4 #####
+
+# COMPLETAR
+
+# queremosPizza = "Algunos"
+
+# if queremosPizza == "Si":
+#     print ""
+# elif queremosPizza == "Algunos"
+# 	print ""
+# else:
 
 
