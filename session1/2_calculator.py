@@ -21,12 +21,16 @@ pizza = 212.93
 # Ahora creemos una variable para el TAX HINT: Tenemos que dividir 
 # 6.75 / 100 para sacar el valor decimal y la computadora nos entienda!
 
-# tax = ?
+# tax = 0.0675
 
 # Ahora creemos una variable para el porcentaje de propina! HINT: Tenemos 
 # que dividir 15.0 / 100 para sacar el valor decimal de la propina!
 
-# propina = ?
+# propina = 0.15
 
+# Calculemos el total!
 
+# ivu = pizza + (pizza * tax)
+# total = ivu + (pizza * propina)
 
+# print("%.2f" % total)
