@@ -26,6 +26,8 @@ pythonWorkshop para principiantes
 # Equipo
   * [Xiomara Figueroa] (https://github.com/Xiomara7)
   * [Roxana González] (https://github.com/rogonzalez)
+  * [Alejandro Sánchez] (https://github.com/alesanz237)
+  * [Rafael Esparra] (https://github.com/resparra)
 
 #Agradecimiento
 Le agradecemos al [Python Software Foundation](https://www.python.org/psf/) y a [Engine-4](http://engine-4.com/) por ayudar a que este taller sea posible. 
