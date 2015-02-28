@@ -12,11 +12,15 @@ para poder accesarla luego.
 Por ejemplo: python = 1 
 '''
 
-##### EJERCICIO 1 (tentativo) ###
+##### EJERCICIO 1 ###
 
 '''
-Crea una variable con el nombre de 'mi_variable' y asignale el valor de 10
+Crea una variable con el nombre de 'miComida' y asignale el valor de 'pizza'
 '''
+
+# Pon TU código aquí
+
+# print miComida
 
 # Booleanas
 
@@ -25,15 +29,19 @@ Otro 'data type' lo son los booleanos. Un booleano es como un switch de luz,
 que solo puede estar prendido o apagado. Un booleano solo puede ser 'cierto' 
 o 'falso'
 
-Por ejemplo: a = True
+Por ejemplo: estoyFeliz = True
 
 '''
 
-##### EJERCICIO 2 (tentativo) #####
+##### EJERCICIO 2 #####
 
 '''
-Crea una variable con el nombre de 'my_bool' y asignale un valor posible
+Crea una variable con el nombre de 'quieroPizza' y asignale un valor posible
 '''
+
+# Pon TU código aquí
+
+# print quieroPizza
 
 # ESPACIOS
 
@@ -78,15 +86,14 @@ resta = 43 - 10
 multiplicacion = 2 * 10
 division = 10 / 5
 
+print suma, resta, multiplicacion, division
+
 '''
 Por qué hacer matemáticas en python si cualquier calculadora lo hace?
 Porque podemos combinarla con otros 'data types' ejemplo: booleanos
-y comandos para crear programas útiles! 
+y comandos para crear programas útiles! Cómo hemos aprendido hasta ahora!
 '''
 
-# EXPONENTE
-
-# OPERACIONES MATEMATICAS
 
 
 
