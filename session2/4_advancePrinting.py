@@ -21,9 +21,12 @@ print "Me voy a comer " + 2 + " pedazos de pizza"
 """ ¿Qué pasa con la combinación de variables y 'strings'?
 Al hacer esta acción existe un buen método con el operador %
 """
+# Observar ¿Cuál es la función de %s?
+string_1 = "Xiomara"
+string_2 = "7"
+print "No se porque %s. 'ordenó pizza para %s personas." % (string_1, string_2)
 
 ##### EJERCICIO 2 #####
-# Corre el siguiente programa: http://bit.ly/1GiBnCG
-# Observar ¿Cuál es la función de %s?
+# Complete el siguiente programa: http://bit.ly/1GiBnCG
 
 """ El operador % sustituye %s con la variable correspondiente en el orden en que aparezcan """
