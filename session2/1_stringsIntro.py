@@ -36,6 +36,6 @@ En el ejemplo anterior creamos una variable llamada
 'Someone told me that there\'s pizza for lunch!'
 
 ##### EJERCICIO 3 #####
-# Arregla el string que está en la linea 27 y 34
+# Arregla el string que está en la linea 29 y 38
 
 

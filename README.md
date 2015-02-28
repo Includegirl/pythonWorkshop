@@ -30,7 +30,7 @@ pythonWorkshop para principiantes
   * [Rafael Esparra] (https://github.com/resparra)
 
 #Agradecimiento
-Le agradecemos al [Python Software Foundation](https://www.python.org/psf/) y a [Engine-4](http://engine-4.com/) por ayudar a que este taller sea posible. 
+Le agradecemos al [Python Software Foundation](https://www.python.org/psf/), [Engine-4](http://engine-4.com/) y a [Piloto Labs](http://www.piloto151.com/programs/) por ayudar a que este taller sea posible. 
 
 #Código de Conducta
  * Para nosotras es importante tener armonía y hacer de nuestras actividades unas con un ambiente amistoso a todo aquel que quiera unirse, por lo cual les damos incapié a nuestro [Código de Conducta](http://www.includegirls.com/python/codeofconduct.html)

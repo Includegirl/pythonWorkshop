@@ -46,7 +46,7 @@ print len("Engine-4")
   un número """
 
 # Ejemplo
-str(2)
+str(3)
 # va a mostrar en la consola: 
 # > '3'
 
