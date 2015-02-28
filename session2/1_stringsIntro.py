@@ -9,14 +9,18 @@ numeros = "1234"
 comida  = "Ice cream sandwich!"
 '''
 En el ejemplo anterior creamos una variable llamada
- cancion y le asignamos el string "bacon Pancakes, making bacon Pancakes'''
+cancion y le asignamos el string "bacon Pancakes, making bacon Pancakes
+'''
 
 
 ##### EJERCICIO 1 #####
 # http://bit.ly/1BgZti4
 
-""" Existen dos maneras de representar los 'strings', aquellos que tienen 
- 'single quotes' y aquellos que tienen 'double quotes' """
+'''
+Existen dos maneras de representar los 'strings', aquellos que tienen 
+ 'single quotes' y aquellos que tienen "double quotes"
+'''
+ 
 # Ejemplo:
 
 # Double Quotes
@@ -35,7 +39,7 @@ En el ejemplo anterior creamos una variable llamada
 # Con el escape character
 'Someone told me that there\'s pizza for lunch!'
 
-##### EJERCICIO 3 #####
+##### EJERCICIO 2 #####
 # Arregla el string que está en la linea 27 y 34
 
 
